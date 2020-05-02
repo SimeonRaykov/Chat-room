@@ -1,4 +1,4 @@
-# ChatCord App
+# Chat room App
 Realtime chat room app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
 
 ## Usage
